@@ -94,6 +94,12 @@ A structured application designed to demonstrate **predictable state architectur
 - Scalable state structure design
 - UI-state synchronization
 
+
+ ## 🌐 Live Demo
+🔗 https://redux-toolkit-todo-kappa.vercel.app/
+
+
+
 🔗 https://github.com/9hanif78/redux-toolkit-todo
 
 ---
