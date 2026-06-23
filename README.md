@@ -76,6 +76,11 @@ A **shopping UI simulation system** built to replicate real-world eCommerce flow
 - UI responsiveness at scale
 - Component reuse patterns
 
+
+ ## 🌐 Live Demo
+🔗 https://e-commerce-website-chi-eight-17.vercel.app/
+
+
 🔗 https://github.com/9hanif78/eCommerce-website
 
 ---
@@ -103,7 +108,7 @@ A **multi-section UI system** focused on layout engineering and frontend structu
 - Landing page system design
 
  ## 🌐 Live Demo
-  https://creative-agency-studio.vercel.app/
+ 🔗 https://creative-agency-studio.vercel.app/
 
 
 
@@ -119,6 +124,10 @@ A real-time conversion tool using live API data flow.
 - Input-output synchronization
 - Fast rendering UI logic
 - Clean UX state flow
+
+
+ ## 🌐 Live Demo
+🔗 https://currency-converter-eight-inky.vercel.app/
 
 🔗 https://github.com/9hanif78/currency-converter
 
