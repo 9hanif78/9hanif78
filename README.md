@@ -63,6 +63,11 @@ A **React-based movie discovery system** built with API-driven architecture.
 - Component-level state separation
 - Responsive UI structure
 
+
+  ## 🌐 Live Demo
+🔗 https://react-movie-hub-six.vercel.app
+
+
 🔗 https://github.com/9hanif78/react-movie-hub
 
 ---
