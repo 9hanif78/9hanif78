@@ -1,6 +1,6 @@
-# Hanif Khan — Frontend Engineer (React + UI Systems)
+# Hanif Khan  Frontend Engineer (React + UI Systems)
 
-> “I build UI systems that feel fast, scalable, and production-ready — not just websites.”
+> “I build UI systems that feel fast, scalable, and production-ready - not just websites.”
 
 ---
 
