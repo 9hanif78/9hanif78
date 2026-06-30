@@ -1,23 +1,24 @@
-# ⚡ Hanif Khan — Frontend Engineer (React + UI Systems)
+# Hanif Khan — Frontend Engineer (React + UI Systems)
 
 > “I build UI systems that feel fast, scalable, and production-ready — not just websites.”
 
 ---
 
-## 🧭 ENGINEERING SIGNAL
+## ◈ ENGINEERING SIGNAL
 
 I’m a **Frontend Engineer specializing in React-based UI systems**, focused on building **scalable, component-driven applications with real-world architecture patterns**.
 
 I don’t just build interfaces — I design **frontend systems that manage state, data flow, and user experience as a unified structure.**
 
 Currently evolving toward **Full-Stack Engineering (MERN + backend fundamentals)** with emphasis on:
+
 - System design thinking
 - API-driven architecture
 - Performance-first UI engineering
 
 ---
 
-## 🧠 WHAT I ACTUALLY DO (NOT JUST STACKS)
+## ◈ WHAT I ACTUALLY DO (NOT JUST STACKS)
 
 - Build React applications with reusable architecture
 - Integrate and structure REST APIs into UI systems
@@ -28,19 +29,22 @@ Currently evolving toward **Full-Stack Engineering (MERN + backend fundamentals)
 
 ---
 
-## ⚙️ CORE ENGINEERING STACK
+## ◈ CORE ENGINEERING STACK
 
 **Frontend Systems**
+
 - React.js (Component Architecture, Hooks, SPA design)
 - JavaScript (ES6+ advanced patterns)
 - HTML5 / CSS3 (semantic + responsive systems)
 - Tailwind CSS / Bootstrap
 
 **State & Data Engineering**
+
 - Redux Toolkit (structured state design)
 - REST API Integration (real-world data flow handling)
 
 **Tools & Workflow**
+
 - Git & GitHub → https://github.com
 - VS Code
 - Chrome DevTools (performance + debugging)
@@ -48,111 +52,112 @@ Currently evolving toward **Full-Stack Engineering (MERN + backend fundamentals)
 
 ---
 
-## 🚀 PRODUCTION PROJECTS (ENGINEERING PORTFOLIO)
+## ◈ PRODUCTION PROJECTS (ENGINEERING PORTFOLIO)
 
 These are not “tutorial projects” — they represent **system-level frontend practice**.
 
 ---
 
-### 🎬 React Movie Hub
+### React Movie Hub
+
 A **React-based movie discovery system** built with API-driven architecture.
 
 **Focus areas:**
+
 - External API integration
 - Dynamic search & filtering system
 - Component-level state separation
 - Responsive UI structure
 
+#### Live Demo
 
-  ## 🌐 Live Demo
-🔗 https://react-movie-hub-six.vercel.app
+Live → https://react-movie-hub-six.vercel.app
 
-
-🔗 https://github.com/9hanif78/react-movie-hub
+GitHub → https://github.com/9hanif78/react-movie-hub
 
 ---
 
-### 🛒 eCommerce Frontend System
+### eCommerce Frontend System
+
 A **shopping UI simulation system** built to replicate real-world eCommerce flow.
 
 **Focus areas:**
+
 - Product listing architecture
 - Cart state management logic
 - UI responsiveness at scale
 - Component reuse patterns
 
+#### Live Demo
 
- ## 🌐 Live Demo
-🔗 https://e-commerce-website-chi-eight-17.vercel.app/
+Live → https://e-commerce-website-chi-eight-17.vercel.app/
 
-
-🔗 https://github.com/9hanif78/eCommerce-website
+GitHub → https://github.com/9hanif78/eCommerce-website
 
 ---
 
-### 🧠 Redux Toolkit Todo System
+### Redux Toolkit Todo System
+
 A structured application designed to demonstrate **predictable state architecture**.
 
 **Focus areas:**
+
 - Redux Toolkit state modeling
 - Action-reducer separation
 - Scalable state structure design
 - UI-state synchronization
 
+#### Live Demo
 
- ## 🌐 Live Demo
-🔗 https://redux-toolkit-todo-kappa.vercel.app/
+Live → https://redux-toolkit-todo-kappa.vercel.app/
 
-
-
-🔗 https://github.com/9hanif78/redux-toolkit-todo
+GitHub → https://github.com/9hanif78/redux-toolkit-todo
 
 ---
 
-### 🎨 Creative Agency UI System
+### Creative Agency UI System
+
 A **multi-section UI system** focused on layout engineering and frontend structure.
 
 **Focus areas:**
+
 - Section-based UI architecture
 - Responsive grid systems
 - UI animation flow
 - Landing page system design
 
- ## 🌐 Live Demo
- 🔗 https://creative-agency-studio.vercel.app/
+#### Live Demo
 
+Live → https://creative-agency-studio.vercel.app/
 
-
-🔗 https://github.com/9hanif78/creative-agency-website
+GitHub → https://github.com/9hanif78/creative-agency-website
 
 ---
 
-### 💱 Currency Converter (API System)
+### Currency Converter (API System)
+
 A real-time conversion tool using live API data flow.
 
 **Focus areas:**
+
 - API-driven UI updates
 - Input-output synchronization
 - Fast rendering UI logic
 - Clean UX state flow
 
+#### Live Demo
 
- ## 🌐 Live Demo
-🔗 https://currency-converter-eight-inky.vercel.app/
+Live → https://currency-converter-eight-inky.vercel.app/
 
-🔗 https://github.com/9hanif78/currency-converter
-
----
-
-## 📊 GITHUB ENGINEERING ACTIVITY
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=9hanif78&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=9hanif78&layout=compact&theme=tokyonight)
+GitHub → https://github.com/9hanif78/currency-converter
 
 ---
 
-## 📈 CURRENT FOCUS (2026 ROADMAP)
+## ◈ GITHUB ENGINEERING ACTIVITY
+
+---
+
+## ◈ CURRENT FOCUS (2026 ROADMAP)
 
 - Advanced React patterns (performance + architecture scaling)
 - Frontend system design (real-world app structures)
@@ -162,7 +167,7 @@ A real-time conversion tool using live API data flow.
 
 ---
 
-## 💼 CAREER POSITIONING
+## ◈ CAREER POSITIONING
 
 Actively seeking:
 
@@ -172,21 +177,21 @@ Where I can contribute to real production systems, work in team environments, an
 
 ---
 
-## 🤝 PROFESSIONAL LINKS
+## ◈ PROFESSIONAL LINKS
 
-- GitHub → https://github.com/9hanif78  
-- LinkedIn → http://www.linkedin.com/in/hanif-khan-772155329  
-- Email → 9hanif78@gmail.com  
+- GitHub → https://github.com/9hanif78
+- LinkedIn → http://www.linkedin.com/in/hanif-khan-772155329
+- Email → 9hanif78@gmail.com
 
 ---
 
-## 🧩 ENGINEERING MINDSET
+## ◈ ENGINEERING MINDSET
 
 > “A strong frontend engineer doesn’t just build UI — they design predictable systems for human interaction.”
 
 ---
 
-## ⚡ FINAL SIGNAL
+## ◈ FINAL SIGNAL
 
 Consistent builder. System thinker. Product-focused frontend engineer.
 
